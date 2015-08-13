@@ -2474,8 +2474,10 @@ height:100%;
 }
 
 .nf-col-padding {
-    padding-left: 25px;
-    padding-right: 25px;
+    /*padding-left: 25px;
+    padding-right: 25px;*/
+    max-width: 300px;
+    float: center;
 }
 
 .nf-row2 {
